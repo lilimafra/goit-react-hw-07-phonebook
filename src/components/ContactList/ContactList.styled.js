@@ -20,12 +20,6 @@ export const ContactItem = styled.li`
   height: 50px;
 
   background: rgb(231, 218, 232);
-  background: linear-gradient(
-    90deg,
-    rgba(231, 218, 232, 1) 70%,
-    rgba(224, 244, 243, 1) 99%
-  );
-  color: #000;
 
   border-radius: 5px;
 
